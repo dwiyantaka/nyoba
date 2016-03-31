@@ -1,0 +1,6 @@
+c:\users\wildanifqie\documents\visual studio 2015\Projects\LatihanKos1\LatihanKos1\bin\Debug\LatihanKos1.exe.config
+c:\users\wildanifqie\documents\visual studio 2015\Projects\LatihanKos1\LatihanKos1\obj\Debug\LatihanKos1.csprojResolveAssemblyReference.cache
+c:\users\wildanifqie\documents\visual studio 2015\Projects\LatihanKos1\LatihanKos1\bin\Debug\LatihanKos1.exe
+c:\users\wildanifqie\documents\visual studio 2015\Projects\LatihanKos1\LatihanKos1\bin\Debug\LatihanKos1.pdb
+c:\users\wildanifqie\documents\visual studio 2015\Projects\LatihanKos1\LatihanKos1\obj\Debug\LatihanKos1.exe
+c:\users\wildanifqie\documents\visual studio 2015\Projects\LatihanKos1\LatihanKos1\obj\Debug\LatihanKos1.pdb
